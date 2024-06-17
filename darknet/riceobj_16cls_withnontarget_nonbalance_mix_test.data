@@ -1,0 +1,4 @@
+classes= 16
+valid  = data/rice16cls_withnontarget_test_names_nonbalance_mix.txt
+names = data/riceobj_16cls_mix.names
+backup = backup/
